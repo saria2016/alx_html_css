@@ -1,1 +1,1 @@
-Html Basic Project 
+HTML Basics Project 
