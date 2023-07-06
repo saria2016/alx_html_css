@@ -10,6 +10,11 @@ body, main {
   }
   article {
     flex: 2;
+    background-color: blueviolet;
+    color: azure;
+  }
+  table {
+    color: azure;
   }
   aside {
     flex: 1;
@@ -17,4 +22,6 @@ body, main {
   article, aside {
     overflow-y: auto;
   }
-  
+  .logo {
+    font-size: 2em;
+  }
