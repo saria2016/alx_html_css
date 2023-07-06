@@ -10,7 +10,7 @@ body, main {
   }
   article {
     flex: 2;
-    background-color: blueviolet;
+    background-color: rgba(42, 17, 65, 0.863);
     color: azure;
   }
   table {
