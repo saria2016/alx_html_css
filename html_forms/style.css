@@ -21,7 +21,10 @@ body {
   }
   input[type="text"],
   input[type="email"],
-  input[type="password"] {
+  input[type="password"],
+  input[type="time"],
+  input[type="date"],
+  select {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
