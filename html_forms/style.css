@@ -22,6 +22,7 @@ body {
   input[type="text"],
   input[type="email"],
   input[type="password"],
+  input[type="file"],
   input[type="time"],
   input[type="date"],
   select {
@@ -45,6 +46,16 @@ body {
   }
   input[type="radio"] {
     margin-right: 5px;
+  }
+  .checkbox-container label {
+    display: block;
+    margin-bottom: 0px;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  .checkbox-container {
+    display: flex;
+    align-items: center;
   }
   
   input[type="submit"] {
