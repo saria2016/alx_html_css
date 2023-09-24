@@ -40,6 +40,9 @@ body {
   textarea {
     height: 120px;
   }
+  input[type="radio"] {
+    margin-right: 5px;
+  }
   input[type="submit"] {
     background-color: #4CAF50;
     color: white;
